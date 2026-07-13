@@ -11,7 +11,7 @@ Atualmente, estou focado em me consolidar no ecossistema do desenvolvimento web,
 ## 🛠️ Tecnologias e Habilidades
 
 ### 🟢 Domínio Atual (O que faço de olhos fechados)
-*   **HTML5 & CSS3:** Criação de layouts responsivos, modernos e semânticos com foco total em CSS Flexbox, variáveis globais e estruturação modular (limpa e sem "suco de frutas").
+*   **HTML5 & CSS3:** Criação de layouts responsivos, modernos e semânticos com foco total em CSS Flexbox, CSS Grid Layout, variáveis globais e estruturação modular (limpa e sem "suco de frutas").
 *   **Figma (UX/UI):** Planejamento visual, criação de wireframes e protótipos interativos focados na usabilidade e experiência do usuário antes de partir para o código.
 *   **Git & GitHub:** Versionamento de código profissional, deploys automatizados e boas práticas de commits.
 *   **Performance & SEO:** Otimização de páginas e auditoria de métricas de carregamento com Google Lighthouse.
