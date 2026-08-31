@@ -27,7 +27,8 @@ Atualmente, estou focado em me consolidar no ecossistema do desenvolvimento web,
 *   **[Flexblog](https://github.com/lucassdias23/flexblog):** Blog institucional com foco em design responsivo e estruturação semântica com Flexbox. **Pontuação no Lighthouse: 100% Performance | 96% Acessibilidade | 100% SEO**.
 *   **[Bikcraft](https://github.com/lucassdias23/bikcraft):** Projeto focado em usabilidade, estruturação avançada e design responsivo para uma marca de bicicletas premium.
 *   **[Wildbeast](https://github.com/lucassdias23/wildbeast):** Um layout moderno estruturado com as propriedades do Display Grid. Totalmente refatorado do zero para adotar as melhores práticas de arquitetura CSS e performance.
-*   *Em Desenvolvimento:* **Animais Fantásticos** – Projeto clássico de JavaScript voltado para manipulação de DOM e efeitos interativos que em breve passará por uma refatoração completa.
+*   **[Animais Fantásticos](https://github.com/lucassdias23/animais-fantasticos):** – Projeto clássico de JavaScript voltado para manipulação de DOM e efeitos interativos que em breve passará por uma refatoração completa.
+*   **[Forest](https://github.com/lucassdias23/Forest):** - Projeto desenvolvido utilizando as HTML semântico, JavaScript para interações visuais, e estilização com o Framework TailwindCSS V4.
 *   *Em Breve:* **Dogs** – Minha primeira aplicação dinâmica integrada e completa em React.
 
 ---
